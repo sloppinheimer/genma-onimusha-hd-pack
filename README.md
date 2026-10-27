@@ -1,13 +1,14 @@
 # Genma Onimusha HD pack
 
-High-resolution replacements for the Genma Onimusha native port, as mod folders. Get them from the launcher
-(**Mods → Get HD pack**), or download the zips from the latest release and unpack them into the port's `mods` folder.
+High-resolution replacements for [Genma Xcorcised](https://github.com/sloppinheimer/genma-onimusha-port), the native
+Windows port of Genma Onimusha, as mod folders. Get them from the port's launcher (**Mods → Get HD pack**), or
+download the zips from the latest release and unpack them into the port's `mods` folder.
 
 | Mod | What it does |
 |---|---|
 | HD Backgrounds | The pre-rendered backgrounds, menu screens and animated backgrounds at 4x, upscaled from the PS2 originals |
-| HD Textures | Character, prop and effect textures at 4x, and the FILE menu's letters and notes redrawn in a cleaned-up font |
-| HD Movies | The movies at 4x, upscaled from the Xbox originals |
+| HD Textures | Character, prop and effect textures at 4x, plus retouched menu text, menu pictures and item pictures |
+| HD Movies | The movies at 4x, most upscaled from the PS2 originals and fitted to the Xbox cuts |
 | Uncut Hecuba | The Japanese PS2 cut of the Hecuba transformation movie (off by default) |
 | FMV Subtitles | Subtitles for the movies in English, French, German or Japanese |
 
